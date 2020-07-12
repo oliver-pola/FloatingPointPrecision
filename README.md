@@ -2,7 +2,7 @@
 
 The problems of floating point precision shown in a very visual way, using Unity game engine.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NJ0O4L47ZeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Floating Point Precision](http://img.youtube.com/vi/NJ0O4L47ZeU/0.jpg)](http://www.youtube.com/watch?v=NJ0O4L47ZeU "Floating Point Precision")
 
 ## Access
 
